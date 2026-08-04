@@ -6,3 +6,4 @@ ipykernel
 yfinance
 pandas
 requests
+math
