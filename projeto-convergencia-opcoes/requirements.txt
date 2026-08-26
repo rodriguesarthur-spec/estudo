@@ -1,9 +1,0 @@
-numpy
-matplotlib
-scipy
-jupyter
-ipykernel
-yfinance
-pandas
-requests
-math
